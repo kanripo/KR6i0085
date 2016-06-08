@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:09:32.195492
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 13:19
 #+TITLE: 說無垢稱經疏
 #+PROPERTY: CBETA_ID T38n1782
 #+PROPERTY: ID KR6i0085
@@ -16,7 +16,7 @@
 ¶
 大慈恩寺沙門基撰¶
 
-2顯不思議方便善巧品(三本)
+* 2顯不思議方便善巧品(三本)
 :PROPERTIES:
 :head: 顯不思議方便善巧品第二
 :END:
@@ -849,7 +849,8 @@
 贊曰。此下第三明¶
 利益。¶
 
-3聲聞品(三本-四本)
+* 3聲聞品(三本-四本)
+** 1
 :PROPERTIES:
 :head: 聲聞品
 :END:
